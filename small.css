@@ -1,0 +1,138 @@
+@media screen and (max-width: 768px){
+    body{
+        background-color: rgb(117, 5, 37);
+        margin: 0 0 0 0;
+    }
+    #top_block {
+        background-color: rgb(244, 177, 131);
+        width: 100%;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        text-align:center;
+    }
+    #ham{
+        display: none;
+    }
+
+    #main_icon {
+        width: 20%;
+        margin-top: 0.13cm;
+    }
+    #nav_block {
+        display: none;
+    }
+    #show_in_medium{
+        display: none;
+    }
+    .display_slide {
+        width: 100%;
+    }
+
+    .idle_slide {
+        width: 100%;
+        display: none;
+    }
+    .icon {
+        display: none;
+    }
+
+    #main_slide{
+        margin-bottom: 0px;
+    }
+
+    #section2 {
+        background-color: rgb(197, 90, 17);
+        width: 100%;
+        margin-top: 0px;
+    }
+    #section_title {
+        font-size: 40px;
+        font-family: Arial;
+        text-align: center;
+        margin: 0 0 0 0;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #subsection {
+        display: none;
+    }
+
+    #subparagraph{
+        background-color: rgb(197, 90, 17);
+        margin-bottom: 0px;
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    #image_in_paragraph {
+        width: 80%;
+        padding-left: 0.98cm;
+        padding-top: 0.54cm;
+        margin-bottom: 0px;
+    }
+
+    #words_beside_pic {
+        width: 80%;
+        text-align: center;
+        padding-left: 80px;
+        margin-bottom: 0px;
+    }
+
+    #paragraph{
+        font-size: 40px;
+    }
+    #paragraph_title{
+        font-size: 45px;
+    }
+
+    footer {
+        background-color: rgb(244, 177, 131);
+        width:100%;
+        display: inline-block;
+    }
+
+    section{
+        margin-bottom: 0px;
+    }
+    #read_more_btn{
+        background-color: rgb(244, 177, 131);
+        width: 4.73cm;
+        height: 1.11cm;
+        font-size: 30px;
+        padding-top: 10px;
+        margin: 0px auto;
+        border-style: outset;
+    }
+
+    footer p{
+        font-size: 24px;
+    }
+
+    #community_btns{
+        padding-top: 10px;
+        padding-right: 10px;
+    }
+
+    #com_btns_group{
+        display: inline-block;
+        float:right;
+        margin-top:30px;
+    }
+
+    #footer_words{
+        margin-left:10%;
+        margin-right:10%;
+        display: inline-block;
+    }
+
+    #title_for_small{
+        background-color: rgb(244, 177, 131);
+        width:100%;
+        font-size: 40px;
+        text-align: center;
+        margin: 0 0 0 0;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+}

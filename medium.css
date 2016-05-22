@@ -1,0 +1,166 @@
+@media screen and (max-width: 1280px) and (min-width: 768px) {
+    body {
+        margin: 0 0 0 0;
+        background-color: rgb(117, 5, 37);
+    }
+
+    #nav_block {
+        display: none;
+    }
+
+    .idle_slide {
+        display: none;
+    }
+
+    #subsection {
+        display: none;
+    }
+
+    #top_block {
+        background-color: rgb(244, 177, 131);
+        width: 100%;
+        margin-bottom: 0px;
+    }
+
+    #main_icon {
+        width: 20%;
+        margin-left: 5%;
+    }
+
+    #ham{
+        width: 10%;
+        float: right;
+        margin-top: 3%;
+        margin-right: 5%;
+    }
+
+    #main_slide {
+        display: inline-block;
+        margin: 0 0 0 0;
+    }
+
+    .display_slide {
+        margin: 0 0 0 0;
+        width: 124%;
+    }
+
+    .idle_slide {
+        width: 80%;
+        display: none;
+        position: absolute;
+    }
+
+    #icon_slide {
+        float: right;
+    }
+
+    .icon {
+        display: none;
+    }
+
+    #show_in_medium{
+        float: right;
+        width: 54%;
+    }
+
+    #section2 {
+        background-color: rgb(197, 90, 17);
+        width: 100%;
+        margin-top: 0px;
+    }
+
+
+    #section_title {
+        font-size: 40px;
+        font-family: Arial;
+        text-align: center;
+        margin: 0 0 0 0;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+        #title_for_small{
+        background-color: rgb(244, 177, 131);
+        width:80%;
+        font-size: 40px;
+        text-align: center;
+        margin: 0 0 0 0;
+        margin-left: 10%;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #subparagraph{
+        background-color: rgb(197, 90, 17);
+        margin-bottom: 0px;
+        text-align: center;
+        padding-bottom: 20px;
+        width: 80%;
+        height: 8cm;
+        margin-left: 10%;
+    }
+
+    #image_in_paragraph {
+        width: 8.87cm;
+        height: 6.9cm;
+        padding-left: 0.98cm;
+        padding-top: 0.54cm;
+        float: left;
+    }
+
+    #words_beside_pic {
+        display: inline-block;
+        margin-left: 0.86cm;
+        float: left;
+    }
+
+    #paragraph_title {
+        font-size: 32px;
+        font-family: Arial;
+    }
+
+    #paragraph {
+        font-size: 28px;
+        font-family: Arial;
+        padding-bottom: 10px;
+    }
+
+    #read_more_btn{
+        background-color: rgb(244, 177, 131);
+        width: 4.73cm;
+        height: 1.11cm;
+        font-size: 30px;
+        padding-top: 10px;
+        margin: 0px auto;
+        border-style: outset;
+    }
+
+    footer{
+        margin-top: 30px;
+        background-color: rgb(244, 177, 131);
+    }
+
+    footer p{
+        font-size: 24px;
+    }
+
+    #community_btns{
+        padding-top: 10px;
+        padding-right: 10px;
+    }
+
+    #com_btns_group{
+        display: inline-block;
+        float:right;
+        margin-top:30px;
+    }
+
+    #footer_words{
+        margin-left:10%;
+        margin-right:10%;
+        display: inline-block;
+    }
+
+}    
